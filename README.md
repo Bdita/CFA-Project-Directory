@@ -12,3 +12,4 @@ Below are the projects done as part of the CFA course.
 9) DreamDoodleDesign(Two-way Marketplace Rails) App: https://github.com/Bdita/CFA-Final-Rails-App-Project
 10) HackStack Terminal App (Node.js): https://github.com/Bdita/CFA--HackStack
 11) Webserever Application (Node.js): https://github.com/Bdita/CFA-Webserver-App
+12) Express Routes Exercise (Node.js and Express.js): https://github.com/Bdita/CFA-Express-Routes-Exercise
