@@ -13,3 +13,4 @@ Below are the projects done as part of the CFA course.
 10) HackStack Terminal App (Node.js): https://github.com/Bdita/CFA--HackStack
 11) Webserever Application (Node.js): https://github.com/Bdita/CFA-Webserver-App
 12) Express Routes Exercise (Node.js and Express.js): https://github.com/Bdita/CFA-Express-Routes-Exercise
+13) Grocery List App (Node.js, Express.Js, EJS Template): https://github.com/Bdita/CFA-Grocery-List-App
